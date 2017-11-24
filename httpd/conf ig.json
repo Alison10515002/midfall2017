@@ -6,6 +6,5 @@
   "/styles.css": {
     "url": "../htdocs/assets/css/styles.css",
     "type": "text/css"
-  },
-
+  }
 }
