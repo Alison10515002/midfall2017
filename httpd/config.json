@@ -6,5 +6,9 @@
   "/styles.css": {
     "url": "../htdocs/assets/css/styles.css",
     "type": "text/css"
+  },
+  "/styles.css": {
+    "url": "../htdocs/js/sokoban.js",
+    "type": "text/js"
   }
 }
